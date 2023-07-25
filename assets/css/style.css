@@ -412,7 +412,24 @@ footer a {
 }
 
 .btn {
-  font-size: 30px;
-  padding: 15px;
-  float: right;
+  font-size: 25px;
+  height: 50px;
+  width: 50px;
+  background: rgba(128, 128, 128, 0.25);
+  border-radius: 5px;
+  border: 2px solid white;
+  position: fixed;
+  right: 0;
+}
+
+.goup {
+  bottom: 10%;
+}
+
+.calendar {
+  bottom: 5%;
+}
+
+.social {
+  bottom: 0%;
 }
